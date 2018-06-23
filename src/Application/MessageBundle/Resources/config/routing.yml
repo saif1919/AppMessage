@@ -1,0 +1,3 @@
+application_message_homepage:
+    path:     /
+    defaults: { _controller: ApplicationMessageBundle:Default:index }
